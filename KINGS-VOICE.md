@@ -26,7 +26,8 @@ Faith is part of who TKA is and is welcome in this work.
 - Always **"The King's Academy"** on first reference; **TKA** thereafter.
 - Say **"AI projects / initiatives,"** never **"processes."**
 - Products: **TKA Tix** (ticketing), **TK Bus** (bus communication/GPS app).
-- _(TODO: confirm canonical spelling — **TKOA** / "King's Online" / "Kings Online" — pick one.)_
+- **The King's Online Academy** (TKOA) — full name on first reference, TKOA after. (Confirmed from brand assets.)
+- TKA runs several sub-brands with their own marks (King's Service Organization, King's Corner, Early Childhood, Spiritual Life, The Institute for Christ & Culture, Smith Family Bistro, athletics/Lions). See `brand/ASSETS.md`.
 - _(TODO: people & how to refer to them — first-name vs. title for Randy, Pete, Doug, Dr. Rains.)_
 
 ## 5. Audiences
