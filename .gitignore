@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets — never commit
+.env
+.env.*
+*.key
+*.pem
+
+# Heavy source design files — keep these out of git (use ASSETS.md to note where they live)
+*.ai
+*.eps
+*.psd
+*.indd
