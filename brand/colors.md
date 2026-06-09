@@ -2,13 +2,14 @@
 
 Official school colors (per tka.net): **Red, White, and Royal Blue.** Mascot: Lion.
 
-| Color | Sampled hex | Source |
+| Color | Hex | Source |
 |---|---|---|
-| Blue  | `#005898` | sampled from the stacked blue wordmark |
-| Red   | `#E01830` | sampled from the athletics red mark (JPEG — may be slightly off) |
-| White | `#FFFFFF` | — |
+| Royal Blue | `#003580` | live tka.net theme CSS (primary brand blue) |
+| Red        | `#D21034` | live tka.net theme CSS (primary brand red) |
+| White      | `#FFFFFF` | — |
 
-> ⚠️ **Sampled, not official.** These were pulled from logo files, not a brand standard.
-> Confirm against the official brand guide before using in print or production web specs.
+Logo-sampled alternates (close, slightly different): blue `#005898`, red `#E01830`.
 
-_(TODO: replace with exact hex, plus any secondary/neutral palette, from the brand standards doc.)_
+> The hex above is pulled from the live website CSS, where these values dominate — reliable for web.
+> The official **brand guide** remains the final authority, especially for print (CMYK/Pantone) and
+> any secondary/neutral palette.
