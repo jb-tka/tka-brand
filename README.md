@@ -1,17 +1,15 @@
 # TKA Brand
 
-Canonical brand assets and voice for The King's Academy — logos, colors, type, and the
-global **King's Voice** context file that every admin's Claude references.
+Canonical, public brand assets for The King's Academy — logos for the main marks, athletics,
+and every sub-brand.
 
-This repo is intentionally separate from `tka-admin-agent` (internal/private) so brand assets
-can be grabbed directly. The admin-agent repo *references* this one; it does not duplicate it.
+This repo holds **assets only**. The internal "King's Voice" context file (tone, conventions,
+comms strategy) lives in the private `tka-admin-agent` repo and references these assets by URL.
 
 ## What's here
-- `KINGS-VOICE.md` — the global voice/tone/conventions file (the thing Claude loads as context).
-- `brand/logos/` — web-ready logo files (SVG + PNG; primary, reversed/white, mark-only).
-- `brand/ASSETS.md` — index of every asset: what it is, when to use it, and its link.
-- `brand/colors.md`, `brand/typography.md` — palette (hex) and type specs.
-- `brand/BRAND-GUIDE.pdf` — source brand guide, if provided.
+- `brand/logos/` — web/print-ready logos (PNG, JPG, PDF), organized by mark and sub-brand.
+- `brand/ASSETS.md` — index of every asset with its path.
+- `brand/colors.md`, `brand/typography.md` — palette (hex) and type specs _(pending brand guide)_.
 
 ## How to grab an asset
 Open `brand/ASSETS.md` for the list and direct links. When asking Claude to build something
