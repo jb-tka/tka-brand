@@ -48,7 +48,7 @@ Faith is integral, not decorative. TKA is unapologetically Christian.
 - Say **"AI projects / initiatives,"** never **"processes."**
 - Products: **TKA Tix** (ticketing), **TK Bus** (bus communication/GPS app).
 - **The King's Online Academy** (TKOA) — full name first, TKOA after. Public site: kingsonlineacademy.com
-- **Mascot:** Lion(s). **School colors:** Red, White, Royal Blue (specs in `tka-brand/brand/colors.md`).
+- **Mascot:** Lion(s). **School colors (digital palette):** Royal Blue `#003580`, Red `#D21034`, White `#FFFFFF` — use these for text/headers/shapes. (Full specs + logo-raster notes in `tka-brand/brand/colors.md`.)
 - Sub-brands with their own marks: King's Service Organization, King's Corner, Early Childhood Program,
   Spiritual Life, The Institute for Christ & Culture, Smith Family Bistro, athletics/Lions.
 - **Naming people:** internal/staff comms use first names; formal or parent/external comms use full
