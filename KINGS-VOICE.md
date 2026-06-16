@@ -82,6 +82,10 @@ Faith is integral, not decorative. TKA is unapologetically Christian.
 Logos, colors, and type live in the **public** `tka-brand` repo.
 - Index: https://github.com/jb-tka/tka-brand/blob/main/brand/ASSETS.md
 - Grab any file: `https://raw.githubusercontent.com/jb-tka/tka-brand/main/<path>`
+- **Program of Distinction (POD) logo:**
+  - 1-line: `https://raw.githubusercontent.com/jb-tka/tka-brand/main/logos/programs-of-distinction/programs-of-distinction-1-line.png`
+  - 2-lines: `https://raw.githubusercontent.com/jb-tka/tka-brand/main/logos/programs-of-distinction/programs-of-distinction-2-lines.png`
+- Full master library (every mark, fonts, sub-brands, individual PODs) lives in the SharePoint **SP-Branding** site — fetch via the Microsoft 365 connector.
 
 ## 7. Don'ts
 - Don't call AI work "processes" or frame it as replacing people.

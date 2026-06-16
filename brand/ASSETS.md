@@ -217,3 +217,12 @@ All paths are relative to the repo root. To grab via direct link once pushed:
 - `institute-christ-and-culture-rev2a-logo.png`
 - `institute-christ-and-culture-rev3a-logo.png`
 - `institute-christ-and-culture-solid-circle-6r.png`
+
+## Programs of Distinction (POD)
+
+`logos/programs-of-distinction/`
+
+- `programs-of-distinction-1-line.png`
+- `programs-of-distinction-2-lines.png`
+
+> The full master brand library (all marks, fonts, and the individual Program-of-Distinction logos — Aviation, Pre-Law, Pre-Med, Engineering, Conservatory, etc.) lives in the SharePoint **SP-Branding** site.
