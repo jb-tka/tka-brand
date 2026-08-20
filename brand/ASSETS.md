@@ -225,4 +225,13 @@ All paths are relative to the repo root. To grab via direct link once pushed:
 - `programs-of-distinction-1-line.png`
 - `programs-of-distinction-2-lines.png`
 
+## Staff headshots (faculty & staff directory photos)
+
+`headshots/`
+
+Official headshots for all 296 TKA faculty and staff — one JPEG per person, named
+`firstname-lastname.jpg` (portrait, max 600px, ~40KB each). The full name/title/department
+index with usage instructions is [`headshots/HEADSHOTS.md`](../headshots/HEADSHOTS.md).
+Sourced from the public directory at tka.net/about/meet-the-team (retrieved 2026-08-20).
+
 > The full master brand library (all marks, fonts, and the individual Program-of-Distinction logos — Aviation, Pre-Law, Pre-Med, Engineering, Conservatory, etc.) lives in the SharePoint **SP-Branding** site.
