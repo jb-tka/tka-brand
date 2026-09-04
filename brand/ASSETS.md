@@ -170,6 +170,7 @@ All paths are relative to the repo root. To grab via direct link once pushed:
 - `king-s-corner-blueandred-logo-tagline.png`
 - `king-s-corner-brown-logo-line-only.png`
 - `king-s-corner-brown-logo-tagline.png`
+- `king-s-corner-icon-512.png` (512x512 square app/launcher icon, white background)
 - `king-s-corner-white-logo-line-only.png`
 - `king-s-corner-white-logo-tagline.png`
 
